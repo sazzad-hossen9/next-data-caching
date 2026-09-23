@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless  Headphones",
+      "price": 2499,
+      "category": "Electronics",
+      "description": "High-quality wireless headphones with clear sound and long battery life.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch",
+      "price": 3499,
+      "category": "Electronics",
+      "description": "Modern smartwatch with fitness tracking, heart rate monitoring and notifications.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": 3,
+      "title": "Running Shoes",
+      "price": 2899,
+      "category": "Fashion",
+      "description": "Comfortable and lightweight running shoes suitable for everyday workouts.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 4,
+      "title": "Backpack",
+      "price": 1599,
+      "category": "Accessories",
+      "description": "Durable backpack with multiple compartments for school, work and travel.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+    },
+    {
+      "id": 5,
+      "title": "Coffee Mug",
+      "price": 499,
+      "category": "Home",
+      "description": "Simple ceramic coffee mug perfect for tea, coffee and other beverages.",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d"
+    },
+    {
+      "id": 6,
+      "title": "Mechanical Keyboard",
+      "price": 4299,
+      "category": "Electronics",
+      "description": "RGB mechanical keyboard with responsive keys and a comfortable design.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    }
+  ]
+}
