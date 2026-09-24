@@ -1,52 +1,58 @@
 {
-  "products": [
+  "books": [
     {
       "id": 1,
-      "title": "Wireless  Headphones",
-      "price": 2499,
-      "category": "Electronics",
-      "description": "High-quality wireless headphones with clear sound and long battery life.",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+      "title": "ami Habits",
+      "author": "James Clear",
+      "price": 450,
+      "category": "Self-Help",
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f"
     },
     {
       "id": 2,
-      "title": "Smart Watch",
-      "price": 3499,
-      "category": "Electronics",
-      "description": "Modern smartwatch with fitness tracking, heart rate monitoring and notifications.",
-      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 350,
+      "category": "Fiction",
+      "description": "A young shepherd follows his dreams and discovers the meaning of life.",
+      "image": "https://images.unsplash.com/photo-1511108690759-009324a90311"
     },
     {
       "id": 3,
-      "title": "Running Shoes",
-      "price": 2899,
-      "category": "Fashion",
-      "description": "Comfortable and lightweight running shoes suitable for everyday workouts.",
-      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 500,
+      "category": "Finance",
+      "description": "A personal finance book about money, investing, and financial education.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f"
     },
     {
       "id": 4,
-      "title": "Backpack",
-      "price": 1599,
-      "category": "Accessories",
-      "description": "Durable backpack with multiple compartments for school, work and travel.",
-      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 550,
+      "category": "Finance",
+      "description": "Explores how emotions and behavior influence financial decisions.",
+      "image": "https://images.unsplash.com/photo-1559526324-593bc073d938"
     },
     {
       "id": 5,
-      "title": "Coffee Mug",
-      "price": 499,
-      "category": "Home",
-      "description": "Simple ceramic coffee mug perfect for tea, coffee and other beverages.",
-      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d"
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 850,
+      "category": "Programming",
+      "description": "A guide to writing readable, maintainable, and professional software code.",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
     },
     {
       "id": 6,
-      "title": "Mechanical Keyboard",
-      "price": 4299,
-      "category": "Electronics",
-      "description": "RGB mechanical keyboard with responsive keys and a comfortable design.",
-      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas & Andrew Hunt",
+      "price": 900,
+      "category": "Programming",
+      "description": "Practical techniques and principles for becoming a better software developer.",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765"
     }
   ]
 }

@@ -13,12 +13,21 @@ export default function NavBer() {
         >
           Home
         </Link>
-      </li> <li>
+      </li>{" "}
+      <li>
         <Link
           className={`link ${pathname === "/products" ? "text-blue-500" : ""} no-underline font-bold text-xl`}
           href="/products"
         >
           products
+        </Link>
+      </li>{" "}
+      <li>
+        <Link
+          className={`link ${pathname === "/book" ? "text-blue-500" : ""} no-underline font-bold text-xl`}
+          href="/book"
+        >
+          book
         </Link>
       </li>
       <li>
